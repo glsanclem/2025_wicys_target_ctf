@@ -6,8 +6,6 @@ categories: practice-challenges
 tags: tutorial, simple, 30-points
 ---
 
-## PRACTICE CHALLENGES
-
 ### P2. Hidden Challenges
 
 **Points:** 30  
