@@ -1,0 +1,6 @@
+title: 2025 WiCyS Target CTF
+description: CTF write-ups for the 2025 Target Defense Challenge
+baseurl: "/2025_wicys_target_ctf"
+remote_theme: mmistakes/minimal-mistakes
+plugins:
+  - jekyll-feed
