@@ -6,8 +6,6 @@ categories: practice-challenges
 tags: tutorial, simple, 30-points
 ---
 
-## PRACTICE CHALLENGES
-
 ### P1. Wicys [Welcome]
 
 **Points:** 30  
