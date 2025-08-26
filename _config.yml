@@ -4,3 +4,6 @@ baseurl: "/2025_wicys_target_ctf"
 remote_theme: mmistakes/minimal-mistakes
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-paginate
+  - jekyll-optional-front-matter
