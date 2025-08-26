@@ -17,5 +17,3 @@ There were two tiers: Tier 1 is primarily blue-team focused and Tier 2 is red-te
 ## **SCENARIO**
 
 In Tier 1, we worked through simulated cyberattack scenarios against a tech company, Personalyz.io, to test our ability to detect, analyze, and respond to threats.  Personalyz.io is a mid-size company with 500 employees which offered data collection SaaS products for the purpose of targeted ads. Personalyz.io received a ransom demand, and we played the defender to identify the intrusion and determine how the data was exfiltrated. The challenges focused on threat detection, digital forensics, incident response, network analysis, and threat intelligence.
-
-
