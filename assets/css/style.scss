@@ -72,3 +72,38 @@ h2, h3 {
   font-family: inherit;   /* keep Hacker font */
   font-weight: bold;      /* keep bold styling if used by Hacker theme */
 }
+
+/* ------------------- Challenge Box Styling -------------------- */
+.challenge-box {
+  background-color: #1a1a1a;  /* dark gray so it contrasts with body */
+  border: 1px solid #39ff14;   /* neon green border to match Hacker theme */
+  border-radius: 0.6rem;       /* smooth rounded corners */
+  padding: 1.5rem 1.8rem;      /* inner spacing for text */
+  margin-bottom: 2rem;         /* space between boxes */
+  box-shadow: 0 4px 12px rgba(0,0,0,0.5);  /* subtle shadow to pop */
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+/* hover effect for a little interactivity */
+.challenge-box:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 8px 18px rgba(0,0,0,0.7);
+}
+
+/* inner headings inside the box (like title, points, category) */
+.challenge-box h3 {
+  color: #39ff14;    /* neon green to match Hacker titles */
+  margin-top: 0;
+}
+
+/* bold the small metadata */
+.challenge-box strong {
+  color: #e7e7e7;
+  font-weight: 600;
+}
+
+/* adjust normal paragraph text inside the box */
+.challenge-box p, .challenge-box li {
+  color: #e7e7e7;
+  line-height: 1.5;
+}
