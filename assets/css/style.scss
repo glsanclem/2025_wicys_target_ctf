@@ -13,7 +13,7 @@ header, .site-header, .header {
   font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 
-/* title and description inside the banner */
+/* main title inside the banner */
 .site-title, .site-header h1, header .site-title {
   color: #39ff14; /* neon green so it pops */
   font-size: 2.4rem;
@@ -24,11 +24,13 @@ header, .site-header, .header {
 }
 
 /* subtitle under the title */
-.site-description, .site-header h2, header .site-description, .site-header p {
-  color: rgba(e7e7e7);
+header .site-description,
+.site-header .site-description,
+header p.site-description {
+  color: #e7e7e7 !important; /* light gray */
   margin-top: 0.45rem;
-  font-size: 0.95rem;
-  font-weight: normal;
+  font-size: 0.95rem !important; /* smaller than main title */
+  font-weight: normal !important; /* unbold */
   font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 
