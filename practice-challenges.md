@@ -3,4 +3,6 @@ layout: default
 title: Practice Challenges
 ---
 
-{% include p1-wicys-welcome.md %}
+<div class="challenge-box">
+  {% include p1-wicys-welcome.md %}
+</div>
