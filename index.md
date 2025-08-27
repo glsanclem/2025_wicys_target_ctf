@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: default
 title: "2025 WiCyS Target Cyber Defense CTF"
 hero:
   heading: "2025 Target + WiCyS Cyber Defense Challenge CTF Write-Ups"
