@@ -5,3 +5,4 @@ url: "https://glsanclem.github.io"
 theme: jekyll-theme-hacker
 plugins:
   - jekyll-feed
+  - jekyll-remote-theme
