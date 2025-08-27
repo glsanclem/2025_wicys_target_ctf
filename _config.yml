@@ -2,6 +2,6 @@ title: 2025 WiCyS Target CTF
 description: CTF write-ups for the 2025 Target Cyber Defense Challenge
 baseurl: "/2025_wicys_target_ctf"
 url: "https://glsanclem.github.io"
-theme: jekyll-theme-cayman
+theme: jekyll-theme-hacker
 plugins:
   - jekyll-feed
