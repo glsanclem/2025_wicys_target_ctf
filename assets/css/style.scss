@@ -25,9 +25,10 @@ header, .site-header, .header {
 
 /* subtitle under the title */
 .site-description, header .site-description, .site-header p {
-  color: rgba(255,255,255,0.95);
+  color: rgba(e7e7e7);
   margin-top: 0.45rem;
-  font-size: 1rem;
+  font-size: 0.95rem;
+  font-weight: normal;
   font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 
