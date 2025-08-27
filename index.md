@@ -14,6 +14,13 @@ There were two tiers: Tier 1 is primarily blue-team focused and Tier 2 is red-te
 
 **Disclaimer:** The write-ups provide educational insight into the process I followed to complete each challenge. Since Tier 1 officially ended, we were given the green flag (pun intended) to create our write-ups, which includes revealing the flag answers.
 
+## KEY TAKEWAYS
+
+•	Strengthened network analysis, intelligence analysis, and digital forensics skills through mock hands-on CTF challenges.
+•	Learned to use various sources of research methods from manual to automation analysis during complex investigations.
+•	Practiced negotiation and incident response techniques in ransomware scenarios.
+•	Reinforced the importance of having patience, persistence, determination, and analytical thinking when handling cybersecurity challenges.
+
 ## SCENARIO
 
 In Tier 1, we worked through simulated cyberattack scenarios against a tech company, Personalyz.io, to test our ability to detect, analyze, and respond to threats. Personalyz.io is a mid-size company with 500 employees that offered data collection SaaS products for the purpose of targeted ads. Personalyz.io received a ransom demand, and we played the defender to identify the intrusion and determine how the data was exfiltrated. The challenges focused on threat detection, digital forensics, incident response, network analysis, and threat intelligence.
@@ -21,13 +28,19 @@ In Tier 1, we worked through simulated cyberattack scenarios against a tech comp
 ## PRACTICE CHALLENGES
 
 - [P1. WiCyS Welcome](practice_challenges/p1-wicys-welcome.md)
-- [P2. Hidden Challenges](practice_challenges/p2-hidden-challenges.html)
-- [P3.1 Sub Challenge](practice_challenges/p3-1-sub-challenge.html)
-- [P3.2 Limited Attempts](practice_challenges/p3-2-limited-attempts.html)
-- [P4. Hints](practice_challenges/p4-hints.html)
-- [P5. Cooperation](practice_challenges/p5-cooperation.html)
-- [P6. Scenario](practice_challenges/p6-scenario.html)
+- [P2. Hidden Challenges](practice_challenges/p2-hidden-challenges.md)
+- [P3.1 Sub Challenge](practice_challenges/p3-1-sub-challenge.md)
+- [P3.2 Limited Attempts](practice_challenges/p3-2-limited-attempts.md)
+- [P4. Hints](practice_challenges/p4-hints.md)
+- [P5. Cooperation](practice_challenges/p5-cooperation.md)
+- [P6. Scenario](practice_challenges/p6-scenario.md)
 
 ## MAIN CHALLENGES
 
-<!-- D1, D2, etc. will be inserted here -->
+- [D1. Mystery Mail](mail_challenges/d1-mystery-mail.md)
+- [D2. Not So Simple Mail Protocol](mail_challenges/d2-not-so-simple-mail-protocol.md)
+- [D3. Ransom Wrangler](mail_challenges/d3-ransom-wrangler.md)
+- [D5. Ahoy, PCAP'n!](mail_challenges/d5-ahoy-pcapn.md)
+- [D6. Smuggled Away](mail_challenges/d6-smuggled-away.md)
+- [D7. Endpoints and Exfiltration](mail_challenges/d7-endpoints-and-exfiltration.md)
+- [D8. Shadow Commit](mail_challenges/d8-shadow-commit.md)
