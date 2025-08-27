@@ -20,7 +20,13 @@ In Tier 1, we worked through simulated cyberattack scenarios against a tech comp
 
 ## PRACTICE CHALLENGES
 
-<!-- P1, P2, etc. will be inserted here -->
+- [P1. WiCyS Welcome](practice_challenges/p1-wicys-welcome.html)
+- [P2. Hidden Challenges](practice_challenges/p2-hidden-challenges.html)
+- [P3.1 Sub Challenge](practice_challenges/p3-1-sub-challenge.html)
+- [P3.2 Limited Attempts](practice_challenges/p3-2-limited-attempts.html)
+- [P4. Hints](practice_challenges/p4-hints.html)
+- [P5. Cooperation](practice_challenges/p5-cooperation.html)
+- [P6. Scenario](practice_challenges/p6-scenario.html)
 
 ## MAIN CHALLENGES
 
