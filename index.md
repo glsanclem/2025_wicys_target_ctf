@@ -16,10 +16,10 @@ There were two tiers: Tier 1 is primarily blue-team focused and Tier 2 is red-te
 
 ## KEY TAKEWAYS
 
-•	Strengthened network analysis, intelligence analysis, and digital forensics skills through mock hands-on CTF challenges.
-•	Learned to use various sources of research methods from manual to automation analysis during complex investigations.
-•	Practiced negotiation and incident response techniques in ransomware scenarios.
-•	Reinforced the importance of having patience, persistence, determination, and analytical thinking when handling cybersecurity challenges.
+- Strengthened network analysis, intelligence analysis, and digital forensics skills through mock hands-on CTF challenges.
+- Learned to use various sources of research methods from manual to automation analysis during complex investigations.
+- Practiced negotiation and incident response techniques in ransomware scenarios.
+- Reinforced the importance of having patience, persistence, determination, and analytical thinking when handling cybersecurity challenges.
 
 ## SCENARIO
 
