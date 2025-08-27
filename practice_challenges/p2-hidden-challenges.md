@@ -12,12 +12,12 @@ title: "P2: Hidden Challenges"
 ---
 
 ## Description
-<span style=”color: orange, #ffcc00; font-weight: bold;”>F</span>ollowing a narrative means some challenges could spoil earlier ones, so most challenges will be hidden at the beginning. <span style=”color: orange, #ffcc00; font-weight: bold;”>L</span>etting yourself bounce between the offensive and defensive challenges should prevent you from getting stuck. <span style=”color: orange, #ffcc00; font-weight: bold;”>A</span>s you complete challenges, more will be unlocked - this also helps you get a feel for how an attack would actually unfold!
+<span style="color: #ffcc00; font-weight: bold;">F</span>ollowing a narrative means some challenges could spoil earlier ones, so most challenges will be hidden at the beginning. <span style="color: #ffcc00; font-weight: bold;">L</span>etting yourself bounce between the offensive and defensive challenges should prevent you from getting stuck. <span style="color: #ffcc00; font-weight: bold;">A</span>s you complete challenges, more will be unlocked — this also helps you get a feel for how an attack would actually unfold!
 
 ---
 
 ## Objective/Challenge
-<span style=”color: orange, #ffcc00; font-weight: bold;”>G</span>et the flag by finding the hidden message spelled out by combining the first letter in each sentence.
+<span style="color: #ffcc00; font-weight: bold;">G</span>et the flag by finding the hidden message spelled out by combining the first letter in each sentence.
 
 ---
 
