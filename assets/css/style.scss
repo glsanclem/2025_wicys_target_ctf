@@ -1,9 +1,11 @@
 ---
 ---
 
-/* Cayman-style banner merged with Hacker theme */
+/* =========================================================
+   Hacker Theme Base + Cayman-style Gradient Header Block
+   ========================================================= */
 
-/* big header block */
+/* ---------------------- Header Block ---------------------- */
 header, .site-header, .header {
   background: linear-gradient(90deg, #013220 0%, #3b0b4d 100%);
   color: #ffffff;
@@ -13,7 +15,7 @@ header, .site-header, .header {
   font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 
-/* main title inside the banner */
+/* ------------------- Main Title in Header ------------------ */
 .site-title, .site-header h1, header .site-title {
   color: #39ff14; /* neon green so it pops */
   font-size: 2.4rem;
@@ -23,30 +25,35 @@ header, .site-header, .header {
   font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 
-/* subtitle under the title */
+/* ------------------- Subtitle / Description --------------- */
 header .site-description,
 .site-header .site-description,
-header p.site-description {
-  color: #e7e7e7 !important; /* light gray */
-  margin-top: 0.45rem;
-  font-size: 0.95rem !important; /* smaller than main title */
-  font-weight: normal !important; /* unbold */
-  font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+header p.site-description,
+header h2,
+header h3,
+.site-header h2,
+.site-header h3 {
+  color: #e7e7e7 !important;        /* light gray */
+  font-size: 0.95rem !important;     /* smaller than main title */
+  font-weight: normal !important;    /* unbold */
+  line-height: 1.2 !important;
+  font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif !important;
+  margin-top: 0.45rem !important;
 }
 
-/* keep the site body dark like Hacker */
+/* ------------------- Body Styling ------------------------- */
 body {
   background-color: #0b0b0b;
   color: #e7e7e7;
   font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 
-/* neon link tone to match Hacker vibe */
+/* ------------------- Links ------------------------------- */
 a {
-  color: #39ff14;
+  color: #39ff14; /* neon green links */
 }
 
-/* darker footer */
+/* ------------------- Footer Styling ---------------------- */
 footer, .site-footer {
   background-color: #000000;
   color: #ffffff;
@@ -54,7 +61,7 @@ footer, .site-footer {
   font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 
-/* small spacing fix for content under the banner */
+/* ------------------- Content Spacing -------------------- */
 .main-content, .content, .site-content {
   margin-top: 1.25rem;
 }
