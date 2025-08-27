@@ -65,3 +65,10 @@ footer, .site-footer {
 .main-content, .content, .site-content {
   margin-top: 1.25rem;
 }
+
+/* ------------------- Section Titles Neon Green ------------------ */
+h2, h3 {
+  color: #39ff14;         /* Hacker neon green */
+  font-family: inherit;   /* keep Hacker font */
+  font-weight: bold;      /* keep bold styling if used by Hacker theme */
+}
