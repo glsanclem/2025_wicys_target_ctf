@@ -42,5 +42,5 @@ In Tier 1, we worked through simulated cyberattack scenarios against a tech comp
 - [D3. Ransom Wrangler](main_challenges/d3-ransom-wrangler.md)
 - [D5. Ahoy, PCAP'n!](main_challenges/d5-ahoy-pcapn.md)
 - [D6. Smuggled Away](main_challenges/d6-smuggled-away.md)
-- [D7. Endpoints and Exfiltration](main_challenges/d7-endpoints-and-exfiltration.md)
+- [D7. Endpoints and Exfiltration](main_challenges/d7-endpoints-exfiltration.md)
 - [D8. Shadow Commit](main_challenges/d8-shadow-commit.md)
