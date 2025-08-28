@@ -39,7 +39,7 @@ Web Browser, OpenSearch Dashboards
 The objectives provided the credentials to log into Insightful Horizon. 
 
 <p align="center">
-  <img src="/2025_wicys_target_ctf/assets/images/d2-insightful-horizon-login.png" alt="CTF Scenario graphic" width="800">
+  <img src="/2025_wicys_target_ctf/assets/images/d2-insightful-horizon-login.png" alt="CTF Scenario graphic" width="600">
 </p>
 
 From challenge D1, the sender’s information was noted: date, time, and to whom it was sent as March 22, 2025; 252.44.98.29; 9:10 PM; security@personalyz.io. A query was performed on Insightful Horizon based on the sender’s IP address (252.44.98.29) to locate the email logs. 
