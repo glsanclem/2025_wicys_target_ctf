@@ -40,9 +40,9 @@ This task is a continuation of the previous challenge. I looked at the pcap file
 
 Filtering the DNS query (dns.qry.name) extracted all domain names from the DNS queries in the pirates.pcap file into the domains.txt.
 
-`bash`  
-
-`"C:\Program Files\Wireshark\tshark.exe" -r "C:\{Path_to}\pirates.pcap" -Y "dns.qry.name and ip.dst == {C2_IP}" -T fields -e dns.qry.name > domains.txt`  
+```bash
+"C:\Program Files\Wireshark\tshark.exe" -r "C:\{Path_to}\pirates.pcap" -Y "dns.qry.name and ip.dst == {C2_IP}" -T fields -e dns.qry.name > domains.txt
+```
 
 The string of prefixes revealed lowercase letters and digits which was copied and pasted into CyberChef in the upper right quadrant. From the left side the following operations were dragged and dropped into the Recipe (To Upper case, From Base32, Gunzip) and the Output in the lower right quadrant revealed the flag answer.
 
