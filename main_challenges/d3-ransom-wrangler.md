@@ -39,9 +39,11 @@ email@example.com:CTF-RAN-XXXXXXXX:CTF-DEA-XXXXXXXX
 ## Methodology
 The challenge provided the link (https://target-email.chals.io/) which was accessed to obtain the company’s email interface. I began crafting a response after a review of the initial ransom email. 
 
+
 <p align="center">
   <img src="/2025_wicys_target_ctf/assets/images/d3-orig-email-adversary.png" alt="d3-orig-email-adversary" width="800">
 </p>
+
 
 I initialized contact with threat actor by asking for a confirmation of customer data. The threat actor responded by sending proof of customer data which included the email for the first flag:
 
@@ -49,10 +51,12 @@ I initialized contact with threat actor by asking for a confirmation of customer
   <img src="/2025_wicys_target_ctf/assets/images/d3-confirmation-customer-data.png" alt="d3-confirmation-customer-data graphic" width="800">
 </p>
 
-**Verification:** Belinda UNDERWOOD of Wilkes Barre, PA 
-**Email:** belinda.goose_b@skynet.be.
-**Credit Card Number:** 5129913213705954
-**CVV:** 585, Expiration: 11/28
+
+- **Verification:** Belinda UNDERWOOD of Wilkes Barre, PA 
+- **Email:** belinda.goose_b@skynet.be.
+- **Credit Card Number:** 5129913213705954
+- **CVV:** 585, Expiration: 11/28
+
 
 I commenced negotiating the ransom reduction with an aim below 30 BTC. Initially, I lowered the amount to 20 BTC. I knew the threat actor would not take the bait as the amount was way too low,  but I wanted to see just what type of individual I was dealing with and their style. After a few back-and-forth emails, by the end of the chain conversation, I was able to reduce the ransom down to 29.5 BTC—good enough for me! The goal was to get it below the 30-point mark and mission accomplished. I also received the verification code (CODE: CTF-RAN-10AF9199) for the second flag: 
 
@@ -65,11 +69,13 @@ I commenced negotiating the ransom reduction with an aim below 30 BTC. Initially
   <img src="/2025_wicys_target_ctf/assets/images/d3-ransom-reduction-2.png" alt="d3-ransom-reduction graphic" width="800">
 </p>
 
+
 Next, I continued communication with the threat actor to extend the deadline. I was able to accomplish the goal and received the verification code (CODE: CTF-DEA-CB4B9245) for the third flag:
 
 <p align="center">
   <img src="/2025_wicys_target_ctf/assets/images/d3-extending-deadline.png" alt="d3-extending-deadline graphic" width="800">
 </p>
+
 
 Lastly, I combined all three flags in the combined flag format noted in the objectives.
 
