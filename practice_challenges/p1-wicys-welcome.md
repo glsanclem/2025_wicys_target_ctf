@@ -5,13 +5,12 @@ title: "P1: WiCyS[Welcome]"
 
 <!-- Cayman-style Header -->
 <div style="background-color:#2b2b2b; color:#00ffff; padding: 10px 20px; text-align:center; font-family:monospace; font-size:1.2em; border-radius:5px; margin-bottom:20px;">
-  WiCyS Target CTF - Practice Challenge
 </div>
 
 <!-- Top Navigation -->
 <div style="text-align:right; margin-bottom:20px;">
-  <a href="/index.html" style="color:#00aaff; text-decoration:none; margin-right:20px; font-weight:bold;">Home</a>
-  <a href="/resources.html" style="color:#00aaff; text-decoration:none; font-weight:bold;">Resources</a>
+  <a href="/index.html" style="color:blue; text-decoration:none; margin-right:20px; font-weight:bold;">Home</a>
+  <a href="/resources.html" style="color:blue; text-decoration:none; font-weight:bold;">Resources</a>
 </div>
 
 # P1. WiCyS[Welcome]
