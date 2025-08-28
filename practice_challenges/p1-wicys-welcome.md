@@ -3,8 +3,6 @@ layout: default
 title: "P1: WiCyS[Welcome]"
 ---
 
-<div class="challenge-box">
-
 # P1. WiCyS[Welcome]
 
 **Points:** 30  | **Level:** Simple  | **Category:** Tutorial  
@@ -48,8 +46,3 @@ This challenge required keenly reading through the instructions and paying atten
 ## MITRE ATT&CK
 <span style="color:yellow; font-style:italic;">(Suggested)</span>
 - **Resource Development (TA0042):** It’s important to learn various MITRE ATT&CK frameworks to prepare for different scenarios. For this challenge *resource development* technique stood out to me. It is a high-level defensive technique that can limit the adversary’s ability to develop further resources.  Here, we practiced recognizing how something simple, like naming a challenge, mirrors the early steps an adversary takes when preparing for an attack. Attackers build resources and pay attention to small details, similarly, I had to carefully read and prepare my approach to capture the flag correctly.
-
----
-
-<div class="challenge-box">
-
