@@ -15,7 +15,7 @@ title: "P6. Scenario"
 OK, enough with the unskippable tutorial, let's get in the action! Our tale begins with [Personalyz.io](http://personalyz.io/), a mid-sized tech company just minding its own business selling personal data. They're about to get more than they bargained for when Shadow Gopher burrows in! Will Shadow Gopher succeed in undermining Personalyz, or will this scrappy company achieve its dream of hitting the IPO with their trove of customer data intact?
 
 <p align="center">
-  <img src="assets/images/p6-scenario.png" alt="CTF Scenario graphic" width="600">
+  <img src="/assets/images/p6-scenario.png" alt="CTF Scenario graphic" width="600">
 </p>
 
 ---
