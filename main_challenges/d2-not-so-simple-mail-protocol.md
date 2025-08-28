@@ -17,7 +17,7 @@ A menacing extortion email was received from an unknown sender, claiming that se
 ---
 
 ## Objective
-Use the log dashboard server, *Insightful Horizon* (https://target-osd.chals.io/) to find the first extortion email from this incident. Username: analyst | Password: analyst. 
+Use the log dashboard server, *Insightful Horizon* (https://target-osd.chals.io/) to find the first extortion email from this incident. Username: analyst | Password: *******. 
 
 Use the email address that sent the email as the flag. If the server is not loading there are two additional servers that host the exact same data:
 -	https://target-osd-2.chals.io
