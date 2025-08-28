@@ -35,13 +35,13 @@ TextEdit
 I opened the extortion email to review and examine by double clicking but it only revealed the actual message. 
 
 <p align="center">
-  <img src="/2025_wicys_target_ctf/assets/images/d1-extortion-email.png" alt="CTF Scenario graphic" width="600">
+  <img src="/2025_wicys_target_ctf/assets/images/d1-extortion-email.png" alt="Extortion Email graphic" width="600">
 </p>
 
 To obtain the IP address, I right-clicked the document and opened it with TextEdit. The TextEdit file revealed more details such as that the email was received by three actors: mx3.personalyz.io; klaviyo.com; and gwagm.co. By process of elimination, I did not choose the first one since it had our client’s name (personalyz). That left me with klaviyo and gwagm. Since klaviyo ended with a “.com,” a common top-level domain (TLD), I felt it was the most common generic TLD and wasn’t completely suspicion. That left me with: Sun, 23 Mar 2025 10:10:15 +0900 Received: from 252.44.98.29 by gwagm.co which ended with an odd TLD, and I decided that had to be the flag. Since the flag was only asking for the IP address, I jotted down 252.44.98.29 submitted those numbers and it was correct.
 
 <p align="center">
-  <img src="/2025_wicys_target_ctf/assets/images/d1- textedit.png" alt="CTF Scenario graphic" width="600">
+  <img src="/2025_wicys_target_ctf/assets/images/d1-textedit.png" alt="Textedit graphic" width="600">
 </p>
 
 ---
