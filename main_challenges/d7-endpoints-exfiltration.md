@@ -70,5 +70,5 @@ This tells me, the sudo line deletes the authentic “/usr/bin/jot” and ln -s 
 <span style="color:yellow; font-style:italic;">(Suggested)</span>
 -	**Masquerading (T1036):** The attacker replaced the legitimate /usr/bin/jot binary with a malicious program, making it appear as a normal system utility.
 -	**Command and Scripting Interpreter (T1059):** Evidence in bash-history.txt showed the attacker leveraging shell commands to manipulate files and establish execution.
--	**Indicator Removal or Modification (T1070):** The `sudo rm /usr/bin/jot`step was used to remove the authentic binary, erasing traces of normal operation.
+-	**Indicator Removal or Modification (T1070):** The `sudo rm /usr/bin/jot` step was used to remove the authentic binary, erasing traces of normal operation.
 
