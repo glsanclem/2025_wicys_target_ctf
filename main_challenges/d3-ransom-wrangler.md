@@ -87,7 +87,7 @@ Lastly, I combined all three flags in the combined flag format noted in the obje
 ---
 
 ## MITRE ATT&CK
-<span style="color:blue; font-style:italic;">(Suggested)</span>
+<span style="color:yellow; font-style:italic;">(Suggested)</span>
 -	**Phishing for Information (T1598):** This applies under Reconnaissance since the defender actively requested proof of data and the adversary supplied stolen records to establish credibility.
 -	**Data Manipulation / Extortion (T1657):** Here, this technique is relevant since the attacker’s whole tactic is about psychological leverage. They claimed to have customer data, dangles a sample to prove credibility, and threatened financial harm unless the money was paid. This is a classic example of extortion under MITRE. 
 -	**Exfiltration Over Web Services (T1567):** It’s relevant here because the attacker demonstrated possession of customer data that was likely stolen and shared via email to pressure the target.
