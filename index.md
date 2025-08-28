@@ -37,10 +37,10 @@ In Tier 1, we worked through simulated cyberattack scenarios against a tech comp
 
 ## MAIN CHALLENGES
 
-- [D1. Mystery Mail](mail_challenges/d1-mystery-mail.md)
-- [D2. Not So Simple Mail Protocol](mail_challenges/d2-not-so-simple-mail-protocol.md)
-- [D3. Ransom Wrangler](mail_challenges/d3-ransom-wrangler.md)
-- [D5. Ahoy, PCAP'n!](mail_challenges/d5-ahoy-pcapn.md)
-- [D6. Smuggled Away](mail_challenges/d6-smuggled-away.md)
-- [D7. Endpoints and Exfiltration](mail_challenges/d7-endpoints-and-exfiltration.md)
-- [D8. Shadow Commit](mail_challenges/d8-shadow-commit.md)
+- [D1. Mystery Mail](main_challenges/d1-mystery-mail.md)
+- [D2. Not So Simple Mail Protocol](main_challenges/d2-not-so-simple-mail-protocol.md)
+- [D3. Ransom Wrangler](main_challenges/d3-ransom-wrangler.md)
+- [D5. Ahoy, PCAP'n!](main_challenges/d5-ahoy-pcapn.md)
+- [D6. Smuggled Away](main_challenges/d6-smuggled-away.md)
+- [D7. Endpoints and Exfiltration](main_challenges/d7-endpoints-and-exfiltration.md)
+- [D8. Shadow Commit](main_challenges/d8-shadow-commit.md)
