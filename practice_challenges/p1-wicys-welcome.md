@@ -3,6 +3,17 @@ layout: default
 title: "P1: WiCyS[Welcome]"
 ---
 
+<!-- Cayman-style Header -->
+<div style="background-color:#2b2b2b; color:#00ffff; padding: 10px 20px; text-align:center; font-family:monospace; font-size:1.2em; border-radius:5px; margin-bottom:20px;">
+  WiCyS Target CTF - Practice Challenge
+</div>
+
+<!-- Top Navigation -->
+<div style="text-align:right; margin-bottom:20px;">
+  <a href="/index.html" style="color:#00aaff; text-decoration:none; margin-right:20px; font-weight:bold;">Home</a>
+  <a href="/resources.html" style="color:#00aaff; text-decoration:none; font-weight:bold;">Resources</a>
+</div>
+
 # P1. WiCyS[Welcome]
 
 **Points:** 30  | **Level:** Simple  | **Category:** Tutorial  
@@ -45,5 +56,7 @@ This challenge required keenly reading through the instructions and paying atten
 
 ## MITRE ATT&CK
 <span style="color:yellow; font-style:italic;">(Suggested)</span>
-- **Resource Development (TA0042):** It’s important to learn various MITRE ATT&CK frameworks to prepare for different scenarios. For this challenge *resource development* technique stood out to me. It is a high-level defensive technique that can limit the adversary’s ability to develop further resources.  Here, we practiced recognizing how something simple, like naming a challenge, mirrors the early steps an adversary takes when preparing for an attack. Attackers build resources and pay attention to small details, similarly, I had to carefully read and prepare my approach to capture the flag correctly. 
+- **Resource Development (TA0042):** It’s important to learn various MITRE ATT&CK frameworks to prepare for different scenarios. For this challenge *resource development* technique stood out to me. It is a high-level defensive technique that can limit the adversary’s ability to develop further resources. Here, we practiced recognizing how something simple, like naming a challenge, mirrors the early steps an adversary takes when preparing for an attack. Attackers build resources and pay attention to small details, similarly, I had to carefully read and prepare my approach to capture the flag correctly.
+
+
 
