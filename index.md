@@ -10,9 +10,7 @@ hero:
 
 The 2025 Target + WiCyS Cyber Defense Challenge was a Capture the Flag (CTF)-themed event. This writeup shows my methodology, including tactics, techniques, and procedures in the challenge. As a social scientist, I wanted to try something completely new that would challenge my mind, and it was my first time participating in a CTF event. The event allowed me to gain more practical and technical skills, push myself further, and think outside the box while solving cybersecurity issues.
 
-There were two tiers: Tier 1 is primarily blue-team focused and Tier 2 is red-team. This write-up is based on my experience from Tier 1. I completed 14 challenges in Tier 1, which included the preliminary and main challenges. Each stage had different levels of difficulty, and you could only progress by capturing the flag. Though some challenges align with tactics in the MITRE ATT&CK framework, I explored these connections more deeply in the Practice Challenges as a way to build familiarity. Further mapping may come in a later update.
-
-**Disclaimer:** The write-ups provide educational insight into the process I followed to complete each challenge. Since Tier 1 officially ended, we were given the green flag (pun intended) to create our write-ups, which includes revealing the flag answers.
+There were two tiers: Tier 1 is primarily blue-team focused and Tier 2 is red-team. This write-up is based on my experience from Tier 1. I completed 14 challenges in Tier 1, which included the preliminary and main challenges. Each stage had different levels of difficulty, and you could only progress by capturing the flag. While the MITRE ATT&CK framework encompasses over 300 Mitre Att&ck techniques, I explored the connections during the challenges and added a few to this write-up as a way to build familiarity.
 
 ## KEY TAKEWAYS
 
@@ -44,3 +42,7 @@ In Tier 1, we worked through simulated cyberattack scenarios against a tech comp
 - [D6. Smuggled Away](main_challenges/d6-smuggled-away.md)
 - [D7. Endpoints and Exfiltration](main_challenges/d7-endpoints-exfiltration.md)
 - [D8. Shadow Commit](main_challenges/d8-shadow-commit.md)
+
+## DISCLAIMER 
+
+The write-ups provide educational insight into the process I followed to complete each challenge. Since Tier 1 officially ended, we were given the green flag (pun intended) to create our write-ups, which includes revealing the flag answers.
