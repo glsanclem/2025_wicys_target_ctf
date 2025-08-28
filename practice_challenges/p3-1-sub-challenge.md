@@ -5,9 +5,7 @@ title: "P3.1: Sub-Challenge"
 
 # P3.1 Sub-Challenge
 
-**Points:** 15  
-**Level:** Simple  
-**Category:** Tutorial  
+**Points:** 15  | **Level:** Simple  | **Category:** Tutorial  
 
 ---
 
@@ -37,7 +35,9 @@ This was a simple challenge but packed with substantive knowledge. To obtain the
 ---
 
 ## MITRE ATT&CK
-- **TTP**: As a defender, the challenge was not to use a cognitive attack but to train my own cognitive skills to recognize and counter the manipulative tactic in the challenge. A defender may over think a scenario believing there is more to it, when the answer is clear, simple, and taken at face value. This challenge allowed me to use critical thinking, analytical skills, and attention control. 
-- **Mitigation**: Training cognitive resilience.   
-  - **Attention Control**. Our instinct may be to rush and catch the threat actor quickly, but sometimes it might be a better idea to practice mindfulness and attention control. Slowing down and keeping a sustained attention may help us avoid impulsive actions. 
-  - **Contextual analysis**.  was applied which opened the door of awareness to different tones and languages used in the message. For instance, “…We're running out of fun ideas for intro flags, so this one is uhh,…” sounded like a fun and casual message or was it? We have to catch these subtle clues. Is the threat actor trying to sound down to earth and obtain intel? Why are they so friendly? Don’t fall for the trick, but also don’t over analyze and waste time eating that submarine sandwich.
+<span style="color:yellow; font-style:italic;">(Suggested)</span>
+- **TTP:** As a defender, an asset is to train our cognitive skills to recognize and counter the manipulative tactic in the challenge. A defender may over think a scenario believing there is more to what is presented at face value. In reality, the answer may be as clear as day. This challenge allowed us to use critical thinking, analytical skills, and attention control. 
+- **Mitigation:** Training cognitive resilience.   
+- **Attention Control:** Our instinct may be to rush and catch the threat actor quickly, but sometimes it might be a better idea to practice mindfulness and attention control. Slowing down and keeping a sustained attention may help us avoid impulsive actions. 
+- **Contextual analysis:**  This opens the door of awareness to different tones and languages used in the message. For instance, “…We're running out of fun ideas for intro flags, so this one is uhh,…” sounded like a fun and casual message or was it? We have to catch these subtle clues. Is the threat actor trying to sound down to earth and obtain intel? Why are they so friendly? Don’t fall for the trick, but also don’t over analyze and waste time eating that submarine sandwich.
+
