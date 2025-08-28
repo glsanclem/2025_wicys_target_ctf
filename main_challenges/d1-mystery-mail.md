@@ -1,4 +1,5 @@
----
+   
+  ---
 layout: default
 title: "D1. Mystery Mail"
 ---
@@ -39,7 +40,7 @@ I opened the extortion email to review and examine by double clicking but it onl
 To obtain the IP address, I right-clicked the document and opened it with TextEdit. The TextEdit file revealed more details such as that the email was received by three actors: mx3.personalyz.io; klaviyo.com; and gwagm.co. By process of elimination, I did not choose the first one since it had our client’s name (personalyz). That left me with klaviyo and gwagm. Since klaviyo ended with a “.com,” a common top-level domain (TLD), I felt it was the most common generic TLD and wasn’t completely suspicion. That left me with: Sun, 23 Mar 2025 10:10:15 +0900 Received: from 252.44.98.29 by gwagm.co which ended with an odd TLD, and I decided that had to be the flag. Since the flag was only asking for the IP address, I jotted down 252.44.98.29 submitted those numbers and it was correct.
 
 <p align="center">
-  <img src="/2025_wicys_target_ctf/assets/images/d1- textedit.png" alt="d1- textedit graphic" width="800">
+  <img src="/2025_wicys_target_ctf/assets/images/d1-textedit.png" alt="textedit graphic" width="800">
 </p>
 
 ---
@@ -49,6 +50,7 @@ To obtain the IP address, I right-clicked the document and opened it with TextEd
 
 ---
 
-<## MITRE ATT&CK> <span style="color:yellow; font-style:italic;">(Suggested)</span>
+## MITRE ATT&CK 
+<span style="color:yellow; font-style:italic;">(Suggested)</span>
 -	**Phishing (T1566):** This challenge aligns with phishing under *Initial Access*, since the suspicious email represents an adversary’s attempt to trick or pressure a target through malicious communication.   
-  
+
