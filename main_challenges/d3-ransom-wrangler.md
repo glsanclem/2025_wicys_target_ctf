@@ -40,13 +40,13 @@ email@example.com:CTF-RAN-XXXXXXXX:CTF-DEA-XXXXXXXX
 The challenge provided the link (https://target-email.chals.io/) which was accessed to obtain the company’s email interface. I began crafting a response after a review of the initial ransom email. 
 
 <p align="center">
-  <img src="/2025_wicys_target_ctf/assets/images/d3-orig-email-adversary.png" alt="CTF Scenario graphic" width="800">
+  <img src="/2025_wicys_target_ctf/assets/images/d3-orig-email-adversary.png" alt="d3-orig-email-adversary" width="800">
 </p>
 
 I initialized contact with threat actor by asking for a confirmation of customer data. The threat actor responded by sending proof of customer data which included the email for the first flag:
 
 <p align="center">
-  <img src="/2025_wicys_target_ctf/assets/images/d3-confirmation-customer-data.png" alt="CTF Scenario graphic" width="800">
+  <img src="/2025_wicys_target_ctf/assets/images/d3-confirmation-customer-data.png" alt="d3-confirmation-customer-data graphic" width="800">
 </p>
 
 **Verification:** Belinda UNDERWOOD of Wilkes Barre, PA 
@@ -58,17 +58,17 @@ I commenced negotiating the ransom reduction with an aim below 30 BTC. Initially
 
 
 <p align="center">
-  <img src="/2025_wicys_target_ctf/assets/images/d3-ransom-reduction-1.png" alt="CTF Scenario graphic" width="800">
+  <img src="/2025_wicys_target_ctf/assets/images/d3-ransom-reduction-1.png" alt="d3-ransom-reduction graphic" width="800">
 </p>
 
 <p align="center">
-  <img src="/2025_wicys_target_ctf/assets/images/d3-ransom-reduction-2.png" alt="CTF Scenario graphic" width="800">
+  <img src="/2025_wicys_target_ctf/assets/images/d3-ransom-reduction-2.png" alt="d3-ransom-reduction graphic" width="800">
 </p>
 
 Next, I continued communication with the threat actor to extend the deadline. I was able to accomplish the goal and received the verification code (CODE: CTF-DEA-CB4B9245) for the third flag:
 
 <p align="center">
-  <img src="/2025_wicys_target_ctf/assets/images/d3-extending-deadline.png" alt="CTF Scenario graphic" width="800">
+  <img src="/2025_wicys_target_ctf/assets/images/d3-extending-deadline.png" alt="d3-extending-deadline graphic" width="800">
 </p>
 
 Lastly, I combined all three flags in the combined flag format noted in the objectives.
@@ -81,8 +81,8 @@ Lastly, I combined all three flags in the combined flag format noted in the obje
 ---
 
 ## MITRE ATT&CK
-<span style="color:gray; font-style:italic;">(Suggested)</span>
-<span style="color:steelblue; font-style:italic;">(Suggested)</span>
+<span style="color:blue; font-style:italic;">(Suggested)</span>
 -	**Phishing for Information (T1598):** This applies under Reconnaissance since the defender actively requested proof of data and the adversary supplied stolen records to establish credibility.
 -	**Data Manipulation / Extortion (T1657):** Here, this technique is relevant since the attacker’s whole tactic is about psychological leverage. They claimed to have customer data, dangles a sample to prove credibility, and threatened financial harm unless the money was paid. This is a classic example of extortion under MITRE. 
 -	**Exfiltration Over Web Services (T1567):** It’s relevant here because the attacker demonstrated possession of customer data that was likely stolen and shared via email to pressure the target.
+
