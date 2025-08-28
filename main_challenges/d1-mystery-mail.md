@@ -1,5 +1,4 @@
-   
-  ---
+---
 layout: default
 title: "D1. Mystery Mail"
 ---
