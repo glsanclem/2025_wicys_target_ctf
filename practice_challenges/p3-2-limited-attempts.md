@@ -5,9 +5,7 @@ title: "P3.2 Limited Attempts"
 
 # P3.2 Limited Attempts
 
-**Points:** 15  
-**Level:** Simple  
-**Category:** Tutorial  
+**Points:** 15  | **Level:** Simple  | **Category:** Tutorial  
 
 ---
 
@@ -37,5 +35,7 @@ This challenge was similar to the previous one, P3.1. It required not to second-
 ---
 
 ## MITRE ATT&CK
-- **TTP**: Trained my own cognitive skills to recognize the simplicity of a challenge and analyze whether this was a manipulative tactic or simple instructions. I used critical thinking, analytical skills, and attention control in this challenge. 
-- **Mitigation + Detection**: Using mindfulness, awareness of own strengths and weakness, and controlling your own attention is paramount to threat detection. 
+<span style="color:yellow; font-style:italic;">(Suggested)</span>
+- **TTP**: Out cognitive skills are trained to recognize the simplicity of a challenge and analyze whether this was a manipulative tactic or simple instructions. We used critical thinking, analytical skills, and attention control in this challenge. 
+- **Mitigation + Detection**: Using mindfulness, awareness of own strengths and weakness, and controlling your own attention is paramount to threat detection.   
+
