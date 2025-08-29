@@ -5,7 +5,9 @@ title: "P3.1: Sub-Challenge"
 
 # P3.1 Sub-Challenge
 
-**Points:** 15  | **Level:** Simple  | **Category:** Tutorial  
+**Points:** 15  
+**Level:** Simple  
+**Category:** Tutorial  
 
 ---
 
