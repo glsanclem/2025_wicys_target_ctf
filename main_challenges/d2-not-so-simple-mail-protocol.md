@@ -5,7 +5,9 @@ title: "D2. Not-so-Simple Mail Protocol"
 
 # D2. Not-so-Simple Mail Protocol
 
-**Points:** 100  | **Level:** Not as Difficult | **Category:** Log Analysis, Forensic Analysis (E-mail)
+**Points:** 100  
+**Level:** Not as Difficult 
+**Category:** Log Analysis, Forensic Analysis (E-mail)
 
 ---
 
