@@ -61,6 +61,7 @@ The string of prefixes revealed lowercase letters and digits which was copied an
 
 ## MITRE ATT&CK
 <span style="color:yellow; font-style:italic;">(Suggested)</span>  
+
 This challenge was about uncovering the *what* (actual stolen data). In this case, it shifts the weight more toward:
 -	**Exfiltration Over Unencrypted Non-C2 Protocol (T1048.003):** Here, the attacker smuggled out sensitive information by hiding it inside DNS queries, a protocol not normally used for bulk data transfer.
 -	**Data Encoding (T1132):** In this case, the stolen information was encoded and compressed (Base32, GZIP) to make it harder to spot in network traffic.
