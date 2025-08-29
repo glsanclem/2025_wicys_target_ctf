@@ -5,7 +5,9 @@ title: "P3.2 Limited Attempts"
 
 # P3.2 Limited Attempts
 
-**Points:** 15  | **Level:** Simple  | **Category:** Tutorial  
+**Points:** 15  
+**Level:** Simple  
+**Category:** Tutorial  
 
 ---
 
