@@ -3,12 +3,6 @@ layout: default
 title: "Resources"
 ---
 
-<div class="site-nav" style="text-align:center; margin-bottom:1.5rem;">
-  <a href="{{ site.baseurl }}/" style="margin-right:2rem; color:#39ff14; font-weight:bold; text-decoration:none;">Home</a>
-  <a href="{{ site.baseurl }}/resources" style="color:#39ff14; font-weight:bold; text-decoration:none;">Resources</a>
-</div>
-
-
 # Resources  
 
 Here’s a collection of materials, notes, and references I used while working on the challenges.  
