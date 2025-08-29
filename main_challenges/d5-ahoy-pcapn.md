@@ -5,7 +5,9 @@ title: "D5. Ahoy, PCAP’n!"
 
 # D5. Ahoy, PCAP’n!
 
-**Points:** 300  | **Level:** Difficult | **Category:** Network Traffic Analysis, Network Forensics
+**Points:** 300  
+**Level:** Difficult  
+**Category:** Network Traffic Analysis, Network Forensics
 
 ---
 
