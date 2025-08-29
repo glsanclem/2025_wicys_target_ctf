@@ -5,7 +5,9 @@ title: "P1: WiCyS[Welcome]"
 
 # P1. WiCyS[Welcome]
 
-**Points:** 30  | **Level:** Simple  | **Category:** Tutorial  
+**Points:** 30  
+**Level:** Simple  
+**Category:** Tutorial  
 
 ---
 
