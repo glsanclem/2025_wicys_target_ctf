@@ -6,12 +6,6 @@ hero:
   text: "This page showcases my participation in the 2025 Target Cyber Defense CTF Challenge hosted by WiCyS, which ran from July 1 through August 14, 2025."
 ---
 
-<div class="site-nav" style="text-align:center; margin-bottom:1.5rem;">
-  <a href="{{ site.baseurl }}/" style="margin-right:2rem; color:#39ff14; font-weight:bold; text-decoration:none;">Home</a>
-  <a href="{{ site.baseurl }}/resources" style="color:#39ff14; font-weight:bold; text-decoration:none;">Resources</a>
-</div>
-
-
 ## INTRO
 
 The 2025 Target + WiCyS Cyber Defense Challenge was a Capture the Flag (CTF)-themed event. This writeup shows my methodology, including tactics, techniques, and procedures in the challenge. As a social scientist, I wanted to try something completely new that would challenge my mind, and it was my first time participating in a CTF event. The event allowed me to gain more practical and technical skills, push myself further, and think outside the box while solving cybersecurity issues.
