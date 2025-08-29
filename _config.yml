@@ -6,6 +6,7 @@ theme: jekyll-theme-hacker
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
+
 nav:
   - name: "Home"
     link: /
