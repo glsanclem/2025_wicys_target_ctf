@@ -5,7 +5,9 @@ title: "D8. Shadow Commit"
 
 # D8. Shadow Commit
 
-**Points:** 100  | **Level:** Not as Difficult | **Category:** Forensics Investigation (Git)
+**Points:** 100  
+**Level:** Not as Difficult  
+**Category:** Forensics Investigation (Git)
 
 ---
 
