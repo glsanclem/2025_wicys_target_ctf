@@ -5,7 +5,9 @@ title: "P6. Scenario"
 
 # P6. Scenario
 
-**Points:** 1058  | **Level:** Simple  | **Category:** Tutorial  
+**Points:** 1058  
+**Level:** Simple  
+**Category:** Tutorial  
 
 ---
 
@@ -38,16 +40,16 @@ I pressed play to the song by Bill Conti, **Gonna Fly Now**, from the Rocky movi
 ---
 
 ## MITRE ATT&CK
-<span style="color:yellow; font-style:italic;">(Suggested)</span>
-- **Tactic:** The Mitre Att&ck tactics for getting ready to tackle a challenge are:
-- **Reconnaissance (TA0043)**
-- **Resource Development (TA0042)**
+<span style="color:yellow; font-style:italic;">(Suggested)</span>  
+**Tactics:** 
+  - **Reconnaissance (TA0043)**
+  - **Resource Development (TA0042)**
 
 These tactics involve gathering information that can be used to plan for the future against a target, scanning, and searching. It can also involve establishing the resources needed to support the operation. Here, I gathered the necessary materials needed to tackle the challenges such as making sure the computer was operating properly, setting up the work area, access to the third-party sources (google, research tools, books, etc.), and mental  and physical agility preparedness (tea, drinks, snacks, music, food) readily accessible. 
 
-- **Technique:** 
-- **Gathering Victim Network Information (T1590)** 
-- **Search Open Websites/Domains (T1593)** 
+**Techniques:** 
+  - **Gathering Victim Network Information (T1590)** 
+  - **Search Open Websites/Domains (T1593)** 
 
 Incorporating these tactics allowed me to gather as much intel on our client Personalyz.io and reading through the materials. These techniques were also seen when using public sources such as Google, LinkedIn, physical books, library databases to collect information on the target organization or attacker.   
 
