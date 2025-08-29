@@ -6,7 +6,7 @@ title: " P5. Cooperation"
 # P5. Cooperation
 
 **Points:** 42  
-**Level:** Simple
+**Level:** Simple  
 **Category:** Collaboration
 
 ---
