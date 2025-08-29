@@ -118,3 +118,14 @@ ul li {
   margin-bottom: 0.8rem;
 }
 
+/* Navigation menu beneath header block */
+nav:
+  - name: "Home"
+    link: /
+  - name: "Practice Challenges"
+    link: /practice_challenges/
+  - name: "Main Challenges"
+    link: /main_challenges/
+  - name: "Resources"
+    link: /resources/
+
