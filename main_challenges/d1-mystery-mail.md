@@ -5,7 +5,9 @@ title: "D1. Mystery Mail"
 
 # D1. Mystery Mail
 
-**Points:** 100  | **Level:** Not as Difficult | **Category:** Cybersecurity, Forensic Analysis (E-mail)
+**Points:** 100  
+**Level:** Not as Difficult 
+**Category:** Cybersecurity, Forensic Analysis (E-mail)
 
 ---
 
