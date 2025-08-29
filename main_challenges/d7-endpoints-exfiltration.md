@@ -5,7 +5,9 @@ title: "D7. Endpoints and Exfiltration"
 
 # D7. Endpoints and Exfiltration
 
-**Points:** 100  | **Level:** Not as Difficult | **Category:** Endpoint Forensics 
+**Points:** 100  
+**Level:** Not as Difficult  
+**Category:** Endpoint Forensics 
 
 ---
 
