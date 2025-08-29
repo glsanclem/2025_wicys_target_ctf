@@ -1,6 +1,3 @@
----
----
-
 /* =========================================================
    Hacker Theme Base + Cayman-style Gradient Header Block
    ========================================================= */
@@ -114,17 +111,5 @@ challenge-box {
   margin: 1rem 0;
   border-radius: 6px;
   background-color: #111111;
-}
-
-/* ------------------- Nav Link Fix ------------------- */
-.nav-link {
-  color: #39ff14 !important;  /* neon green */
-  text-decoration: none !important;
-  text-shadow: none !important;  /* remove glow/blur */
-  font-weight: bold;
-  margin-left: 1rem;
-}
-.nav-link:hover {
-  text-decoration: underline;
 }
 
