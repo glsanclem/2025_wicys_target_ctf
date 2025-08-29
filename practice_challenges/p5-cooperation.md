@@ -18,9 +18,9 @@ Our official policy on cooperation in this challenge: Go for it! In general, try
 
 ## Objective
 Which of these is correct?
--	We can share answers/flags
--	We can nudge each other by offering limited assistance to those in need
--	We can ask others how to solve just part of a challenge
+-	We can share answers/flags.
+-	We can nudge each other by offering limited assistance to those in need.
+-	We can ask others how to solve just part of a challenge.
 
 ---
 
@@ -35,7 +35,7 @@ In this challenge, I learned that we were allowed to collaborate with others and
 ---
 
 ## Flag
-**Option Chosen**: `We can nudge each other by offering limited assistance to those in need`  
+**Option Chosen**: `We can nudge each other by offering limited assistance to those in need.`  
 
 ---
 
