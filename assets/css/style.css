@@ -113,3 +113,8 @@ challenge-box {
   background-color: #111111;
 }
 
+/* Add spacing between bullet points */
+ul li {
+  margin-bottom: 0.8rem;
+}
+
