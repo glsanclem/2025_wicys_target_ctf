@@ -10,6 +10,7 @@ header, .site-header, .header {
   text-align: center;
   box-shadow: 0 2px 8px rgba(0,0,0,0.35);
   font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  position: relative;
 }
 
 /* ------------------- Main Title in Header ------------------ */
@@ -105,33 +106,28 @@ h2, h3 {
   line-height: 1.5;
 }
 
-challenge-box {
-  border: 2px solid #39ff14;
-  padding: 1rem 1.25rem;
-  margin: 1rem 0;
-  border-radius: 6px;
-  background-color: #111111;
-}
-
-/* Add spacing between bullet points */
+/* standardize spacing between bullets */
 ul li {
   margin-bottom: 0.8rem;
 }
 
+/* ------------------- Navigation Tabs Styling ------------------ */
 .site-nav {
-  position: absolute;
-  top: 2.4rem; /* same as header padding */
-  right: 1.5rem;
+  display: flex;
+  justify-content: flex-end; /* top right */
+  gap: 1.5rem;               /* space between tabs */
+  margin-top: 1rem;           /* below header */
+  margin-right: 2rem;
 }
 
 .site-nav .nav-link {
-  color: #39ff14;
+  color: #39ff14;            /* neon green */
   font-weight: bold;
-  margin-left: 1.5rem;
   text-decoration: none;
+  font-size: 1rem;
 }
 
 .site-nav .nav-link:hover {
   text-decoration: underline;
+  color: #ccff66; /* subtle hover effect */
 }
-
