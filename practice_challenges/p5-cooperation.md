@@ -40,8 +40,8 @@ In this challenge, I learned that we were allowed to collaborate with others and
 ---
 
 ## MITRE ATT&CK
-<span style="color:yellow; font-style:italic;">(Suggested)</span>
--	**Collaboration:** Effective collaboration requires trust between the team and individuals.
--	**Commonality:** If your team does not share a common mindset, whether red, blue, or purple team, collaborative efforts can fail.
-**Challenge:** A challenge of using the Mitre Att&ck framework for collaboration is resource intensive, complexity, and overwhelming techniques that make it difficult for teams to know where to begin or what to prioritize.
+<span style="color:yellow; font-style:italic;">(Suggested)</span> 
+-	**Collaboration:** Effective collaboration requires trust between the team and individuals. 
+-	**Commonality:** If your team does not share a common mindset, whether red, blue, or purple team, collaborative efforts can fail. 
+- **Challenge:** A challenge of using the Mitre Att&ck framework for collaboration is resource intensive, complexity, and overwhelming techniques that make it difficult for teams to know where to begin or what to prioritize.
 
