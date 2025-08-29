@@ -6,13 +6,3 @@ theme: jekyll-theme-hacker
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
-
-nav:
-  - name: "Home"
-    link: /
-  - name: "Practice Challenges"
-    link: /practice_challenges/
-  - name: "Main Challenges"
-    link: /main_challenges/
-  - name: "Resources"
-    link: /resources/
