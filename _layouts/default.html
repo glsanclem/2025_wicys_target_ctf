@@ -6,20 +6,24 @@
   <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/style.css">
 </head>
 <body>
+  <!-- Header Block -->
   <header>
     <h1 class="site-title">{{ page.hero.heading }}</h1>
     <p class="site-description">{{ page.hero.text }}</p>
-
-    <div class="site-nav">
-      <a href="{{ site.baseurl }}/" class="nav-link">Home</a>
-      <a href="{{ site.baseurl }}/resources" class="nav-link">Resources</a>
-    </div>
   </header>
 
+  <!-- Navigation Tabs (beneath header) -->
+  <nav class="site-nav">
+    <a href="{{ site.baseurl }}/" class="nav-link">Home</a>
+    <a href="{{ site.baseurl }}/resources" class="nav-link">Resources</a>
+  </nav>
+
+  <!-- Main Content -->
   <main class="main-content">
     {{ content }}
   </main>
 
+  <!-- Footer -->
   <footer>
     <p>&copy; 2025 LAXURYS</p>
   </footer>
