@@ -5,7 +5,9 @@ title: " P4. Hints"
 
 # P4. Hints
 
-**Points:** 100 | **Level:** Not as Difficult  | **Category:** Tutorial  
+**Points:** 100 
+**Level:** Not as Difficult  
+**Category:** Tutorial  
 
 ---
 
@@ -35,7 +37,7 @@ I unlocked the first hint which cost 10 points of the challenge’s value, and t
 ---
 
 ## MITRE ATT&CK
-<span style="color:yellow; font-style:italic;">(Suggested)</span>
+<span style="color:yellow; font-style:italic;">(Suggested)</span>  
 - **TTP:** Conducted cognitive skills training to recognize the simplicity of the task. This task allowed us to adapt the skillsets from the previous challenge to quickly realize this was not a manipulative tactic, but simple instructions. 
 - **Mitigation + Detection:** Using mindfulness, awareness of strengths and weakness, and controlling your attention is key.   
 
