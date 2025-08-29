@@ -5,7 +5,9 @@ title: "D3. Ransom Wrangler"
 
 # D3. Ransom Wrangler
 
-**Points:** 100  | **Level:** Not as Difficult | **Category:** Negotiation, Social Engineering, Incident Response, Conflict Resolution
+**Points:** 100  
+**Level:** Not as Difficult  
+**Categories:** Negotiation, Social Engineering, Incident Response, Conflict Resolution
 
 ---
 
