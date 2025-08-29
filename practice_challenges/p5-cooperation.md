@@ -5,7 +5,9 @@ title: " P5. Cooperation"
 
 # P5. Cooperation
 
-**Points:** 42  | **Level:** Simple  | **Category:** Collaboration
+**Points:** 42  
+**Level:** Simple
+**Category:** Collaboration
 
 ---
 
@@ -33,7 +35,7 @@ In this challenge, I learned that we were allowed to collaborate with others and
 ---
 
 ## Flag
-**Chosen Option**: `We can nudge each other by offering limited assistance to those in need`  
+**Option Chosen**: `We can nudge each other by offering limited assistance to those in need`  
 
 ---
 
