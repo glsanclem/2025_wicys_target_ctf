@@ -61,8 +61,8 @@ footer, .site-footer {
 
 /* ------------------- Content Spacing -------------------- */
 .main-content, .content, .site-content {
-  margin-top: 1.25rem;
-  padding-bottom: 5rem; /* add space before the footer */
+  margin-top: 3rem; /* adds space after nav menu and content */
+  margin-bottom: 5rem; /* add space above the footer */
 }
 
 /* ------------------- Section Titles Neon Green ------------------ */
