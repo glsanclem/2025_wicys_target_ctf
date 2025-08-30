@@ -6,7 +6,7 @@
 header, .site-header, .header {
   background: linear-gradient(90deg, #013220 0%, #3b0b4d 100%);
   color: #ffffff;
-  padding: 3.5rem 1rem; /* increase from 2.4rem to 3.5rem */
+  padding: 5rem 1rem; /* increase from 3.5rem to 5rem */
   text-align: center;
   box-shadow: 0 2px 8px rgba(0,0,0,0.35);
   font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
@@ -62,6 +62,7 @@ footer, .site-footer {
 /* ------------------- Content Spacing -------------------- */
 .main-content, .content, .site-content {
   margin-top: 1.25rem;
+  padding-bottom: 5rem; /* add space before the footer */
 }
 
 /* ------------------- Section Titles Neon Green ------------------ */
