@@ -33,6 +33,42 @@ In Tier 1, we worked through simulated cyberattack scenarios against a tech comp
     <p><strong>Category:</strong> Tutorial</p>
   </div>
 
+  <div class="challenge-box">
+    <h3><a href="practice_challenges/p2-hidden-challenges">P2. Hidden Challenges</a></h3>
+    <p><strong>Points:</strong> 40</p>
+    <p><strong>Category:</strong> Recon</p>
+  </div>
+
+  <div class="challenge-box">
+    <h3><a href="practice_challenges/p3-1-sub-challenge">P3.1 Sub Challenge</a></h3>
+    <p><strong>Points:</strong> 50</p>
+    <p><strong>Category:</strong> Misc</p>
+  </div>
+
+  <div class="challenge-box">
+    <h3><a href="practice_challenges/p3-2-limited-attempts">P3.2 Limited Attempts</a></h3>
+    <p><strong>Points:</strong> 50</p>
+    <p><strong>Category:</strong> Misc</p>
+  </div>
+
+  <div class="challenge-box">
+    <h3><a href="practice_challenges/p4-hints">P4. Hints</a></h3>
+    <p><strong>Points:</strong> 20</p>
+    <p><strong>Category:</strong> Tutorial</p>
+  </div>
+
+  <div class="challenge-box">
+    <h3><a href="practice_challenges/p5-cooperation">P5. Cooperation</a></h3>
+    <p><strong>Points:</strong> 60</p>
+    <p><strong>Category:</strong> Collaboration</p>
+  </div>
+
+  <div class="challenge-box">
+    <h3><a href="practice_challenges/p6-scenario">P6. Scenario</a></h3>
+    <p><strong>Points:</strong> 70</p>
+    <p><strong>Category:</strong> Scenario</p>
+  </div>
+
 </div>
 
 - [P1. Wicys Welcome](practice_challenges/p1-wicys-welcome.md)
@@ -44,6 +80,52 @@ In Tier 1, we worked through simulated cyberattack scenarios against a tech comp
 - [P6. Scenario](practice_challenges/p6-scenario.md)
 
 ## MAIN CHALLENGES
+
+<div class="challenge-grid">
+
+  <div class="challenge-box">
+    <h3><a href="main_challenges/d1-mystery-mail">D1. Mystery Mail</a></h3>
+    <p><strong>Points:</strong> 100</p>
+    <p><strong>Category:</strong> Email</p>
+  </div>
+
+  <div class="challenge-box">
+    <h3><a href="main_challenges/d2-not-so-simple-mail-protocol">D2. Not So Simple Mail Protocol</a></h3>
+    <p><strong>Points:</strong> 150</p>
+    <p><strong>Category:</strong> Networking</p>
+  </div>
+
+  <div class="challenge-box">
+    <h3><a href="main_challenges/d3-ransom-wrangler">D3. Ransom Wrangler</a></h3>
+    <p><strong>Points:</strong> 200</p>
+    <p><strong>Category:</strong> Malware</p>
+  </div>
+
+  <div class="challenge-box">
+    <h3><a href="main_challenges/d5-ahoy-pcapn">D5. Ahoy, PCAP'n!</a></h3>
+    <p><strong>Points:</strong> 120</p>
+    <p><strong>Category:</strong> Packet Analysis</p>
+  </div>
+
+  <div class="challenge-box">
+    <h3><a href="main_challenges/d6-smuggled-away">D6. Smuggled Away</a></h3>
+    <p><strong>Points:</strong> 180</p>
+    <p><strong>Category:</strong> Steganography</p>
+  </div>
+
+  <div class="challenge-box">
+    <h3><a href="main_challenges/d7-endpoints-exfiltration">D7. Endpoints and Exfiltration</a></h3>
+    <p><strong>Points:</strong> 220</p>
+    <p><strong>Category:</strong> Forensics</p>
+  </div>
+
+  <div class="challenge-box">
+    <h3><a href="main_challenges/d8-shadow-commit">D8. Shadow Commit</a></h3>
+    <p><strong>Points:</strong> 250</p>
+    <p><strong>Category:</strong> Git/Version Control</p>
+  </div>
+
+</div>
 
 - [D1. Mystery Mail](main_challenges/d1-mystery-mail.md)
 - [D2. Not So Simple Mail Protocol](main_challenges/d2-not-so-simple-mail-protocol.md)
