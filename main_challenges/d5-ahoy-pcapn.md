@@ -1,7 +1,11 @@
 ---
 layout: default
-title: "D5. Ahoy, PCAP’n!"
+title: "Your Page Title Here"
+hero:
+  heading: "2025 Target + WiCyS Cyber Defense Challenge CTF Write-Ups"
+  text: "This page showcases my participation in the 2025 Target Cyber Defense CTF Challenge hosted by WiCyS, which ran from July 1 through August 14, 2025."
 ---
+
 
 # D5. Ahoy, PCAP’n!
 
