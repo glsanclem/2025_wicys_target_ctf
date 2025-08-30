@@ -28,14 +28,14 @@ In Tier 1, we worked through simulated cyberattack scenarios against a tech comp
 <div class="challenge-grid">
 
   <div class="challenge-box">
-    <h3><a href="/challenges/p1">[P1. WiCyS Welcome](practice_challenges/p1-wicys-welcome.md)</a></h3>
+    <h3><a href="/practice_challenges/p1-wicys-welcome">P1. wicys[Welcome]</a></h3>
     <p><strong>Points:</strong> 30</p>
     <p><strong>Category:</strong> Tutorial</p>
   </div>
 
 </div>
 
-- [P1. WiCyS Welcome](practice_challenges/p1-wicys-welcome.md)
+- [P1. Wicys Welcome](practice_challenges/p1-wicys-welcome.md)
 - [P2. Hidden Challenges](practice_challenges/p2-hidden-challenges.md)
 - [P3.1 Sub Challenge](practice_challenges/p3-1-sub-challenge.md)
 - [P3.2 Limited Attempts](practice_challenges/p3-2-limited-attempts.md)
