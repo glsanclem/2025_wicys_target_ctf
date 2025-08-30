@@ -1,5 +1,6 @@
 /* ========================================================= 
-Hacker Theme Base + Cayman-style Gradient Header Block ========================================================= */ 
+Hacker Theme Base + Cayman-style Gradient Header Block 
+========================================================= */ 
 
 /* ---------------------- Header Block ---------------------- */ 
 header, .site-header, .header { 
@@ -47,7 +48,7 @@ body {
 
 /* ------------------- Links ------------------------------- */ 
 a { 
- color: #1F51FF; /* neon blue links */ 
+ color: #BC13FE; /* neon purple links */ 
 } 
 
 /* ------------------- Footer Styling ---------------------- */ 
