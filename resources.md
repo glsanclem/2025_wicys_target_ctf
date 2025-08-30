@@ -7,7 +7,7 @@ hero:
 ---
 
 
-# Resources  
+## RESOURCES   
 
 Here’s a collection of materials, notes, and references I used while working on the challenges.  
 
