@@ -17,7 +17,7 @@ header, .site-header, .header {
 .site-title, .site-header h1, header .site-title {
   color: #39ff14; /* neon green so it pops */
   font-size: 2.4rem;
-  margin: 0 0 1rem 0; /* creates space below title & subtitle */
+  margin: 0 0 5rem 0; /* creates space below title & subtitle */
   line-height: 1.05;
   letter-spacing: 0.2px;
   font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
@@ -61,7 +61,7 @@ footer, .site-footer {
 
 /* ------------------- Content Spacing -------------------- */
 .main-content, .content, .site-content {
-  margin-top: 4rem; /* adds space after nav menu and content */
+  margin-top: 5rem; /* adds space after nav menu and content */
   margin-bottom: 5rem; /* add space above the footer */
 }
 
