@@ -8,7 +8,7 @@ hero:
 
 # P4. Hints
 
-**Points:** 100 
+**Points:** 100  
 **Level:** Not as Difficult  
 **Category:** Tutorial  
 
