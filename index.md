@@ -25,6 +25,8 @@ In Tier 1, we worked through simulated cyberattack scenarios against a tech comp
 
 ## PRACTICE CHALLENGES
 
+Click on any box below to view the challenge.
+
 <div class="challenge-grid">
 
   <div class="challenge-box">
@@ -71,15 +73,11 @@ In Tier 1, we worked through simulated cyberattack scenarios against a tech comp
 
 </div>
 
-- [P1. Wicys Welcome](practice_challenges/p1-wicys-welcome.md)
-- [P2. Hidden Challenges](practice_challenges/p2-hidden-challenges.md)
-- [P3.1 Sub Challenge](practice_challenges/p3-1-sub-challenge.md)
-- [P3.2 Limited Attempts](practice_challenges/p3-2-limited-attempts.md)
-- [P4. Hints](practice_challenges/p4-hints.md)
-- [P5. Cooperation](practice_challenges/p5-cooperation.md)
-- [P6. Scenario](practice_challenges/p6-scenario.md)
+
 
 ## MAIN CHALLENGES
+
+Click on any box below to view the challenge.
 
 <div class="challenge-grid">
 
@@ -127,13 +125,6 @@ In Tier 1, we worked through simulated cyberattack scenarios against a tech comp
 
 </div>
 
-- [D1. Mystery Mail](main_challenges/d1-mystery-mail.md)
-- [D2. Not So Simple Mail Protocol](main_challenges/d2-not-so-simple-mail-protocol.md)
-- [D3. Ransom Wrangler](main_challenges/d3-ransom-wrangler.md)
-- [D5. Ahoy, PCAP'n!](main_challenges/d5-ahoy-pcapn.md)
-- [D6. Smuggled Away](main_challenges/d6-smuggled-away.md)
-- [D7. Endpoints and Exfiltration](main_challenges/d7-endpoints-exfiltration.md)
-- [D8. Shadow Commit](main_challenges/d8-shadow-commit.md)
 
 ## DISCLAIMER 
 
