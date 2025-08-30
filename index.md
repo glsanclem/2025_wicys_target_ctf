@@ -28,7 +28,7 @@ In Tier 1, we worked through simulated cyberattack scenarios against a tech comp
 <div class="challenge-grid">
 
   <div class="challenge-box">
-    <h3><a href="/practice_challenges/p1-wicys-welcome">P1. wicys[Welcome]</a></h3>
+    <h3><a href="/practice_challenges/p1-wicys-welcome.md">P1. wicys[Welcome]</a></h3>
     <p><strong>Points:</strong> 30</p>
     <p><strong>Category:</strong> Tutorial</p>
   </div>
