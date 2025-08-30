@@ -6,7 +6,7 @@
 header, .site-header, .header {
   background: linear-gradient(90deg, #013220 0%, #3b0b4d 100%);
   color: #ffffff;
-  padding: 2.4rem 1rem;
+  padding: 3.5rem 1rem; /* increase from 2.4rem to 3.5rem */
   text-align: center;
   box-shadow: 0 2px 8px rgba(0,0,0,0.35);
   font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
