@@ -140,3 +140,11 @@ ul li {
  padding: 0 1.5rem 3rem; /* side padding + bottom spacing */ 
  max-width: 1100px; /* a larger number pushes the content further out */ 
 }
+
+/* Grid layout for challenge boxes */
+.challenge-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 2rem; /* spacing between boxes */
+  margin-top: 2rem;
+}
