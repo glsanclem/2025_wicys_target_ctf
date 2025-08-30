@@ -6,7 +6,7 @@
 header, .site-header, .header {
   background: linear-gradient(90deg, #013220 0%, #3b0b4d 100%);
   color: #ffffff;
-  padding: 6rem 1rem; /* decreased from 10rem to 6rem */
+  padding: 6rem 1rem; /* height of header block */
   text-align: center;
   box-shadow: 0 2px 8px rgba(0,0,0,0.35);
   font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
@@ -17,7 +17,7 @@ header, .site-header, .header {
 .site-title, .site-header h1, header .site-title {
   color: #39ff14; /* neon green so it pops */
   font-size: 2.4rem;
-  margin: 0 0 5rem 0; /* creates space between title & subtitle */
+  margin: 0 0 1rem 0; /* spacing under the title */
   line-height: 1.05;
   letter-spacing: 0.2px;
   font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
@@ -26,17 +26,13 @@ header, .site-header, .header {
 /* ------------------- Subtitle / Description --------------- */
 header .site-description,
 .site-header .site-description,
-header p.site-description,
-header h2,
-header h3,
-.site-header h2,
-.site-header h3 {
-  color: #e7e7e7 !important;        /* light gray */
-  font-size: 0.95rem !important;     /* smaller than main title */
-  font-weight: normal !important;    /* unbold */
-  line-height: 1.2 !important;
-  font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif !important;
-  margin-top: 0.45rem !important;
+header p.site-description {
+  color: #e7e7e7;          /* light gray */
+  font-size: 0.95rem;      /* smaller than main title */
+  font-weight: normal;     
+  line-height: 1.2;
+  font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  margin: 0 0 1.5rem 0;    /* clean gap below subtitle */
 }
 
 /* ------------------- Body Styling ------------------------- */
@@ -55,53 +51,50 @@ a {
 footer, .site-footer {
   background-color: #000000;
   color: #ffffff;
-  padding: 1.15rem 1rem; /* Decreased from 1.25rem to 1.15rem */
+  padding: 1.15rem 1rem;
   font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 
 /* ------------------- Content Spacing -------------------- */
 .main-content, .content, .site-content {
-  margin-top: 5rem; /* adds space after nav menu and content */
-  margin-bottom: 5rem; /* add space above the footer */
+  margin: 5rem auto;         /* spacing above and below content */
+  padding: 0 1.5rem 3rem;    /* side padding + bottom spacing */
+  max-width: 1100px;         /* controls page width */
 }
 
 /* ------------------- Section Titles Neon Green ------------------ */
 h2, h3 {
-  color: #39ff14;         /* Hacker neon green */
-  font-family: inherit;   /* keep Hacker font */
-  font-weight: bold;      /* keep bold styling if used by Hacker theme */
+  color: #39ff14;
+  font-family: inherit;
+  font-weight: bold;
 }
 
 /* ------------------- Challenge Box Styling -------------------- */
 .challenge-box {
-  background-color: #1a1a1a;  /* dark gray so it contrasts with body */
-  border: 1px solid #39ff14;   /* neon green border to match Hacker theme */
-  border-radius: 0.6rem;       /* smooth rounded corners */
-  padding: 1.5rem 1.8rem;      /* inner spacing for text */
-  margin-bottom: 2rem;         /* space between boxes */
-  box-shadow: 0 4px 12px rgba(0,0,0,0.5);  /* subtle shadow to pop */
+  background-color: #1a1a1a;
+  border: 1px solid #39ff14;
+  border-radius: 0.6rem;
+  padding: 1.5rem 1.8rem;
+  margin-bottom: 2rem;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.5);
   transition: transform 0.2s ease, box-shadow 0.2s ease;
 }
 
-/* hover effect for a little interactivity */
 .challenge-box:hover {
   transform: translateY(-2px);
   box-shadow: 0 8px 18px rgba(0,0,0,0.7);
 }
 
-/* inner headings inside the box (like title, points, category) */
 .challenge-box h3 {
-  color: #39ff14;    /* neon green to match Hacker titles */
+  color: #39ff14;
   margin-top: 0;
 }
 
-/* bold the small metadata */
 .challenge-box strong {
   color: #e7e7e7;
   font-weight: 600;
 }
 
-/* adjust normal paragraph text inside the box */
 .challenge-box p, .challenge-box li {
   color: #e7e7e7;
   line-height: 1.5;
@@ -117,12 +110,12 @@ ul li {
   display: flex;
   justify-content: flex-end; /* top right */
   gap: 1.5rem;               /* space between tabs */
-  margin-top: 1rem;           /* below header */
+  margin-top: 0.5rem;        /* spacing under subtitle */
   margin-right: 2rem;
 }
 
 .site-nav .nav-link {
-  color: #39ff14;            /* neon green */
+  color: #39ff14;
   font-weight: bold;
   text-decoration: none;
   font-size: 1rem;
@@ -130,12 +123,5 @@ ul li {
 
 .site-nav .nav-link:hover {
   text-decoration: underline;
-  color: #ccff66; /* subtle hover effect */
-}
-
-/* Wrap the whole main content so it doesn't stretch edge to edge */
-.main-content, .content, .site-content {
-  margin: 1.25rem auto;   /* centers the content */
-  padding: 0 1.5rem 3rem; /* side padding + bottom spacing */
-  max-width: 1100px;       /* a larger number pushes the content further out */
+  color: #ccff66;
 }
