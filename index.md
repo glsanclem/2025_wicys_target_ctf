@@ -12,11 +12,12 @@ hero:
   <img src="2025_wicys_target_ctf/assets/images/a1-target-tier 1-badge.png" 
        alt="Tier 1 Badge" 
        align="left" 
-       width="200">
+       width="300">
 The 2025 Target + WiCyS Cyber Defense Challenge was a Capture the Flag (CTF)-themed event. This writeup shows my methodology, including tactics, techniques, and procedures in the challenge. As a social scientist, I wanted to try something completely new that would challenge my mind, and it was my first time participating in a CTF event. The event allowed me to gain more practical and technical skills, push myself further, and think outside the box while solving cybersecurity issues.
-</p>
 
 There were two tiers: Tier 1 is primarily blue-team focused and Tier 2 is red-team. This write-up is based on my experience from Tier 1. I completed 14 challenges in Tier 1, which included the preliminary and main challenges. Each stage had different levels of difficulty, and you could only progress by capturing the flag. While the MITRE ATT&CK framework encompasses over 300 adversarial tactics, techniques, and common knowledge, I explored the connections during the challenges and added a few to this write-up as a way to build familiarity.
+</p>
+
 
 ## KEY TAKEWAYS
 
