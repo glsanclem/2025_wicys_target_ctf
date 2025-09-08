@@ -8,7 +8,7 @@ hero:
 
 ## INTRO
 
-<img src="/2025_wicys_target_ctf/assets/images/a1-target-tier1-badge.png" alt="Tier 1 Badge" style="float: left; margin-right: 15px; width: 300px;" />
+<img src="/2025_wicys_target_ctf/assets/images/a1-target-tier1-badge.png" alt="Tier 1 Badge" style="float: right; margin-left: 15px; width: 300px;" />
 
 <p>
 The 2025 Target + WiCyS Cyber Defense Challenge was a Capture the Flag (CTF)-themed event. This writeup shows my methodology, including tactics, techniques, and procedures in the challenge. As a social scientist, I wanted to try something completely new that would challenge my mind, and it was my first time participating in a CTF event. The event allowed me to gain more practical and technical skills, push myself further, and think outside the box while solving cybersecurity issues.
