@@ -136,4 +136,4 @@ Click on any box below to view the challenge.
 
 ## DISCLAIMER 
 
-The write-ups provide educational insight into the process I followed to complete each challenge. Since Tier 1 officially ended, we were given the green flag (pun intended) to create our write-ups, which includes revealing the flag answers.
+These write-ups provide educational insight into the process I followed to complete each challenge. Since Tier 1 officially ended, we were given the green flag (pun intended) to create our write-ups, including the flag answers.
