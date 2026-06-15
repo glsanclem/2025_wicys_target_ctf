@@ -20,7 +20,7 @@ There were two tiers: Tier 1 is primarily blue team focused and Tier 2 is red te
 
 <div style="clear: both;"></div>
 
-## KEY TAKEWAYS
+## KEY TAKEAWAYS
 
 - Strengthened network analysis, intelligence analysis, and digital forensics skills through mock hands-on CTF challenges.
 - Learned to use various sources of research methods from manual to automation analysis during complex investigations.
